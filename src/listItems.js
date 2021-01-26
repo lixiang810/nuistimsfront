@@ -28,7 +28,7 @@ export const mainListItems = (
       <ListItemIcon>
         <BarChartIcon />
       </ListItemIcon>
-      <ListItemText primary="與情报告" />
+      <ListItemText primary="舆情报告" />
     </ListItem>
   </div>
 );
