@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/nuistimsfront/static/js/main.abf8426b.chunk.js",
-    "main.js.map": "/nuistimsfront/static/js/main.abf8426b.chunk.js.map",
-    "runtime-main.js": "/nuistimsfront/static/js/runtime-main.7795dc10.js",
-    "runtime-main.js.map": "/nuistimsfront/static/js/runtime-main.7795dc10.js.map",
-    "static/js/2.df9f0da0.chunk.js": "/nuistimsfront/static/js/2.df9f0da0.chunk.js",
-    "static/js/2.df9f0da0.chunk.js.map": "/nuistimsfront/static/js/2.df9f0da0.chunk.js.map",
-    "index.html": "/nuistimsfront/index.html",
-    "service-worker.js": "/nuistimsfront/service-worker.js",
-    "service-worker.js.map": "/nuistimsfront/service-worker.js.map",
-    "static/js/2.df9f0da0.chunk.js.LICENSE.txt": "/nuistimsfront/static/js/2.df9f0da0.chunk.js.LICENSE.txt"
+    "main.js": "/static/js/main.727456b5.chunk.js",
+    "main.js.map": "/static/js/main.727456b5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.223fab02.js",
+    "runtime-main.js.map": "/static/js/runtime-main.223fab02.js.map",
+    "static/js/2.df9f0da0.chunk.js": "/static/js/2.df9f0da0.chunk.js",
+    "static/js/2.df9f0da0.chunk.js.map": "/static/js/2.df9f0da0.chunk.js.map",
+    "index.html": "/index.html",
+    "service-worker.js": "/service-worker.js",
+    "service-worker.js.map": "/service-worker.js.map",
+    "static/js/2.df9f0da0.chunk.js.LICENSE.txt": "/static/js/2.df9f0da0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7795dc10.js",
+    "static/js/runtime-main.223fab02.js",
     "static/js/2.df9f0da0.chunk.js",
-    "static/js/main.abf8426b.chunk.js"
+    "static/js/main.727456b5.chunk.js"
   ]
 }
